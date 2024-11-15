@@ -2,7 +2,7 @@
 <H3>NAME: Aldrin Lijo J E</H3>
 <H3>REGISTER NO: 212222240007</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:</H3>
+<H3>DATE:09/9/2024</H3>
 <H3>Aim:  </H3>  To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
 <h3>Algorithm:</h3>
 
